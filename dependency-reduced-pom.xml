@@ -20,7 +20,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>hello.HelloWorld</mainClass>
+                  <mainClass>hello.Application</mainClass>
                 </transformer>
               </transformers>
             </configuration>
