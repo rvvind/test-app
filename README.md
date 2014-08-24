@@ -1,4 +1,4 @@
 test-app
 ========
 
-Test application using mvc framework
+Test application using Spring MVC framework. This app will be used to test WS calls and UI work
